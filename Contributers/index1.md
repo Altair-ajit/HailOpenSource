@@ -1,5 +1,5 @@
-Name: Bigfish Hackathon Team
+Name: Bugphish Hackathon Team
 Place: Washington D.C
 Tools of Trade : Arduino, Java, Android
-I love: Android and Chromium
-Languages I know: Python, SQL, PHP.
+We love: Android and Chromium
+Languages We know collectively: Python, SQL, PHP, Java, Html, Javascript.
